@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ALUR FILM LIFT</title>
+</head>
+<body>
+<style>
+body {background-color : lightblue;}
+h1 {color: lightblack;
+    text-align: left;
+    font-size: 35px;}
+    
+h2 {color: whiteblack;    
+     text-align: center;
+     font-size: 65px;}
+     
+h4{color : red;
+  text-align: center;
+   font-family: Optima;
+   font-size: 25px;}
+     
+a {color : blue;
+  text-align: right;
+  font-size: 20px}
+     
+P {font-size: 18px;}     
+     
+     </style>
+
+
+<h1> <b> CERITA FILM YANG SANGAT SERU </h1>
+
+
+<h2>ALUR CERITA FILM LIFT</h2>
+
+
+
+<h3>LANJUTANNYA DISINI</h3>
+
+
+<P>London Inggris Cirus sengaja tak menyamar ataupun memakai topeng untuk memancing perhatian interpol sedangkan dua temannya berh hasil merampok salah satu karya seniman legendaris Fang Gogh yang sedang dilelang di London Begitu tiba di kapal n langsung menerima notifikasi pembayarannya Mereka pun berpesta pora semalaman tapi karena terisolasi dari daratan ia tak menyadari kalau saat ini dirinya sedang dicari oleh polisi dan diduga telah diculik berita mengenai penculikannya pun menjadi cukup heboh NX baru sadar berita </p>
+
+
+<P>mengenai dirinya ketika sudah berganti hari ia sempat panik dan mengira dirinya telah diculik dan di sinilah kita dijelaskan kejeniusan dari cyus di mana ia bilang satu karya seni umumnya kurang dihargai sampai ada cerita legendaris di baliknya seperti lukisan Leonardo Da Vinci yang dulu Cuma dihargai 2.000 tapi setelah ia sempat diperbutkan pencuri kini harganya menjadi puluhan Triliun sama dengan kasus tersebut nft yang sayaus beli kemarin kini dihargai 80 juta dolar berkat tingginya publikasi NX</p>
+
+
+<P>yang diduga telah diculik sebagai bonus tambahan sires memberinya 7 juta dolar sebagai ungkapan terima kasih 8 milon masalah muncul ketika seres baru sadar kalau teman mereka bernama denton malah tertangkap ternyata salah satu peserta lelang yang tadi melakukan penawaran masih merupakan anggota tim ces namun penyamarannya terbongkar nah di tengah interogasi bawahan Eby tiba-tiba membawakannya sebuah paket kiriman yang berisikan foto-foto mra dirinya dan cyus di masa lalu nampaknya mereka berdua dahulu adalah sepasang</p>
+
+
+<P>kekasih Ia juga memberikan alamat penthous-nya di London agar keduanya bisa kembali bertemu Abby kemudian kembali ke London untuk mempersiapkan penangkapan cyus tapi di tengah perencanaan dirinya diajak ngobrol oleh seorang pimpinan divisi kejahatan internasional bernama hxley di mana dibanding memenjarakan Cyrus Mereka ingin mengajaknya kerja sama tentu saja Eby awalnya tak setuju karena divisinya telah mengejarnya sekian lama dan sekarang malah mau dilepaskan hakle bilang mereka harus mengorbankannya untuk kasus yang lebih besar</p>
+
+
+
+<h4>KLIK LINK DIBAWAH INI UNTUK LANJUTKAN MENDENGARKAN ATAU MEMBACA ALUR FILM </h4>
+
+
+
+<div>
+
+<a href="https://new.redirigere.com/vjCREWk">Klik Disini</a>
+</div>
+
+<div>
+<a href = "https://new.redirigere.com/vjCREWk">
+  <img src="{{ url_for('static', filename='ads-obm.jpg') }}" alt="click other link" width="800">
+ </a>
+
+</div>
+
+
+
+
+
+</body>
+</html>
